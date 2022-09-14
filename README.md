@@ -8,3 +8,4 @@ This doesn't include build instructions because this is an extracted project fro
 - "keycode": "^2.2.1"
 - "vue": "^3.2.37",
 - "vuex": "^4.0.2"
+- "mitt": "^3.0.0",
